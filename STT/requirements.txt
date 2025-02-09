@@ -1,0 +1,8 @@
+Flask
+google-cloud-speech
+transformers
+pydub
+python-dotenv
+requests
+Flask-Cors
+
